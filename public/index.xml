@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idsfran.github.io</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on idsfran.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 25 Jul 2024 13:16:19 +0200</lastBuildDate>
+    
+        <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peritaje Judicial en Informática</title>
+      <link>//localhost:1313/posts/hello/</link>
+      <pubDate>Thu, 25 Jul 2024 13:16:19 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;peritaje-judicial-en-informática-esmd&#34;&gt;Peritaje Judicial en Informática es.md&lt;/h1&gt;
+&lt;h2 id=&#34;forensia-digital-y-servicios-de-confianza&#34;&gt;Forensia Digital y Servicios de Confianza&lt;/h2&gt;
+&lt;p&gt;Ofrezco servicios de peritaje judicial en materia de informática, con especial énfasis en análisis de evidencia digital, infraestructura de clave pública (PKI) y sistemas de firma digital en el marco de los Servicios de Confianza.&lt;/p&gt;
+&lt;p&gt;El trabajo pericial se orienta a aportar claridad técnica en procesos judiciales donde intervienen tecnologías criptográficas, certificados digitales, sistemas de autenticación, comunicaciones electrónicas y redes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
